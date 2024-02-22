@@ -30,4 +30,4 @@ Idea, art & code: Fabian A. Scherschel
 
 ### Release Notes
 
-**v.0.01** (22/02/2024): Initial release
+**v0.01** (22/02/2024): Initial release
