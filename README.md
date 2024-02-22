@@ -17,14 +17,14 @@ Stopwatch Mode:
 
 ![Clock Mode](stopwatch-mode.gif)
 
-### To Do List:
+### To Do List
 
 * FIXME: Currently the app only works for about 9 hours, before PICO-8's ``time()`` function loops around into the negative and blows everything to hell
 * TODO: Port to 60 frames per second
 * TODO: Make buttons light up when pressed
 * TODO: Sounds?
 
-### Credits:
+### Credits
 
 Idea, art & code: Fabian A. Scherschel
 
