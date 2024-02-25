@@ -1,7 +1,7 @@
 pico-8 cartridge // http://www.pico-8.com
 version 41
 __lua__
---retro clock (v0.01)
+--retro clock (v0.02)
 --by fab.industries
 
 function _init()
