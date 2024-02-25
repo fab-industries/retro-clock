@@ -17,10 +17,11 @@ Stopwatch Mode:
 
 ![Clock Mode](stopwatch-mode.gif)
 
+A web version of this program is available here: [https://fab.industries/pico-8-tools/clock/](https://fab.industries/pico-8-tools/clock/)
+
 ### To Do List
 
 * FIXME: Currently the app only works for about 9 hours, before PICO-8's ``time()`` function loops around into the negative and blows everything to hell
-* TODO: Port to 60 frames per second
 * TODO: Make buttons light up when pressed
 * TODO: Sounds?
 
@@ -30,4 +31,5 @@ Idea, art & code: Fabian A. Scherschel
 
 ### Release Notes
 
+**v0.02** (25/02/2024): Stopwatch and clock displays now synchronised  
 **v0.01** (22/02/2024): Initial release
